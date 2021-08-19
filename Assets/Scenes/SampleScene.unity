@@ -410,7 +410,7 @@ MonoBehaviour:
   maxHeight: 10
   width: 50
   perlinCenter: {x: 63.95, y: 45}
-  frequency: 0.0392
+  frequency: 0.0532
   terrainItemPrefabs:
   - {fileID: 0}
   - {fileID: 696768962668551264, guid: dcd1f866a365c9d4a979e19b1876d0c0, type: 3}
